@@ -1,0 +1,15 @@
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\ATP-Aula11-Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\ATP-Aula11-Vetores.AssemblyInfoInputs.cache
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\ATP-Aula11-Vetores.AssemblyInfo.cs
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\ATP-Aula11-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\ATP-Aula11-Vetores.sourcelink.json
+C:\Users\1554600\ATP-Aula11-Vetores\bin\Debug\net9.0\ATP-Aula11-Vetores.exe
+C:\Users\1554600\ATP-Aula11-Vetores\bin\Debug\net9.0\ATP-Aula11-Vetores.deps.json
+C:\Users\1554600\ATP-Aula11-Vetores\bin\Debug\net9.0\ATP-Aula11-Vetores.runtimeconfig.json
+C:\Users\1554600\ATP-Aula11-Vetores\bin\Debug\net9.0\ATP-Aula11-Vetores.dll
+C:\Users\1554600\ATP-Aula11-Vetores\bin\Debug\net9.0\ATP-Aula11-Vetores.pdb
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\ATP-Aula11-Vetores.dll
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\refint\ATP-Aula11-Vetores.dll
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\ATP-Aula11-Vetores.pdb
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\ATP-Aula11-Vetores.genruntimeconfig.cache
+C:\Users\1554600\ATP-Aula11-Vetores\obj\Debug\net9.0\ref\ATP-Aula11-Vetores.dll
